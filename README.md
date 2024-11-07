@@ -1,5 +1,6 @@
 # network_pruning
-
+The result is as following:
+![Accuracy after pruning](Accuracy after pruning.png)
 ## References
 [1] 基于 PyTorch 实现 AlexNet 并在 Cifar-10 数据集上进行验证(https://blog.csdn.net/rocketeerLi/article/details/92242655)
 
